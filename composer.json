@@ -1,0 +1,28 @@
+{
+    "name" : "friendsofakeneo/xml-export-connector-bundle",
+    "type" : "symfony-bundle",
+    "description" : "",
+    "keywords" : [
+        "XML",
+        "Export",
+        "Batch",
+        "Symfony2",
+        "Akeneo",
+        "PIM"
+    ],
+    "homepage": "https://github.com/FriendsOfAkeneo/FOAXmlExportConnectorBundle",
+    "license": "MIT",
+    "authors" : [
+    ],
+    "require" : {
+        "php": ">=5.4.4"
+    },
+    "autoload" : {
+        "psr-4" : { "FOA\\XmlExportConnectorBundle\\" : "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "1.0-dev"
+        }
+    }
+}
