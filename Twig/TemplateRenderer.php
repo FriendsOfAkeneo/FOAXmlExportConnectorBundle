@@ -1,7 +1,8 @@
-<?php 
+<?php
 
 namespace FOA\XmlExportConnectorBundle\Twig;
 
-class TemlateRenderer {
-    
+class TemplateRenderer
+{
+
 }
