@@ -1,0 +1,5 @@
+foa_connector:
+    jobs:
+        xml_export:
+            title: Xml export Job
+            export.title: Xml export Step

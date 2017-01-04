@@ -1,0 +1,13 @@
+connector:
+    name: FOA XML Export connector
+    jobs:
+        foa_xml_export:
+            title: foa_connector.jobs.xml_export.title
+            type:  export
+            steps:
+                export_step:
+                    title:         foa_connector.jobs.xml_export.export.title
+                    services:
+                        reader:    pim_connector.reader.dummy_item
+                        processor: pim_connector.processor.dummy_item
+                        writer:    pim_connector.writer.dummy_item

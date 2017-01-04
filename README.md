@@ -19,4 +19,9 @@ FOAXmlExportConnectorBundle
         ];
         ...
 ```
-3) Configure export connector instance:
+3) Create export job instance:
+```bash
+php app/console akeneo:batch:create-job 'FOA XML Export connector' foa_xml_export export xml_export_instance '[]'
+```
+4) Configure job instance:
+
