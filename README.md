@@ -1,6 +1,8 @@
 FOAXmlExportConnectorBundle
 ===========================
 
+[![Join the chat at https://gitter.im/FriendsOfAkeneo/FOAXmlExportConnectorBundle](https://badges.gitter.im/FriendsOfAkeneo/FOAXmlExportConnectorBundle.svg)](https://gitter.im/FriendsOfAkeneo/FOAXmlExportConnectorBundle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Installation
 
 1) Install bundle using [Composer](https://getcomposer.org/download/):
